@@ -1,6 +1,6 @@
 # 码途
 
-我的个人博客：<https://gujunyao.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://gujunyao.top>，欢迎 Star 和 Fork。
 
 
 ## 致谢
